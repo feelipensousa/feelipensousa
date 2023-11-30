@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feelipensousa&label=Profile%20views&color=0e75b6&style=flat" alt="feelipensousa" /> </p>
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **Data engineering**
 
 - 🤝 I’m looking to collaborate with **some new projects to improve my personal portfolio**
 
